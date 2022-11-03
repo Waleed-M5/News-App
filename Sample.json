@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Hamdi Alkhshali and Aqeel Najim, CNN",
+      "title": "Iraqi protesters break into parliament denouncing the nomination of new premier - CNN",
+      "description": "Hundreds of angry protesters loyal to the powerful cleric Muqtada al-Sadr broke into Baghdad's heavily protected Green Zone on Wednesday, denouncing the nomination of a new prime minister.",
+      "url": "https://www.cnn.com/2022/07/27/middleeast/iraq-protests-baghdad-green-zone-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220727135434-02-iraq-protest-072722-restricted-super-tease.jpg",
+      "publishedAt": "2022-07-28T09:23:00Z",
+      "content": "Baghdad, Iraq (CNN)Hundreds of angry protesters loyal to the powerful cleric Muqtada al-Sadr broke into Baghdad's heavily protected Green Zone on Wednesday, denouncing the nomination of a new prime m… [+1869 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WCVB Boston" },
+      "author": null,
+      "title": "'Young child' shot, killed in Boston neighborhood, mayor says - WCVB Boston",
+      "description": "A juvenile male was shot and killed on a neighborhood street in Boston just before sunset on Wednesday evening, police said.",
+      "url": "https://www.wcvb.com/article/ellington-street-boston-young-child-shot-killed/40735769",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/boston-ellington-street-juvenile-shot-2-1658969908.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-07-28T09:12:00Z",
+      "content": "BOSTON —A juvenile male was shot and killed on a neighborhood street in Boston just before sunset on Wednesday evening, police said. \r\nThe incident happened around 7:30 p.m. along Ellington Street ne… [+1456 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ben Morse, CNN",
+      "title": "Donald Trump to play round with Bryson DeChambeau and Dustin Johnson ahead of LIV Golf event - CNN",
+      "description": "Former US President Donald Trump will play a round with Bryson DeChambeau and Dustin Johnson ahead of the LIV Golf event which begins on Friday.",
+      "url": "https://www.cnn.com/2022/07/28/sport/trump-dechambeau-johnson-liv-golf-spt-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220728034509-01-trump-liv-golf-dj-bryson-restricted-super-tease.jpg",
+      "publishedAt": "2022-07-28T08:35:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Mars Sample Return Mission: NASA Will Astonish the World - SciTechDaily",
+      "description": "NASA Will Inspire World When It Returns Mars Samples to Earth in 2033 NASA has completed the system requirements review for its Mars Sample Return Program, which has nearly concluded its conceptual design phase. During this phase, the program team evaluated a…",
+      "url": "https://scitechdaily.com/mars-sample-return-mission-nasa-will-astonish-the-world/",
+      "urlToImage": "https://scitechdaily.com/images/Multiple-Robots-NASA-Mars-Sample-Return-Mission-scaled.jpg",
+      "publishedAt": "2022-07-28T08:33:45Z",
+      "content": "ByNASAJuly 28, 2022\r\nThis illustration shows a concept for multiple robots that would team up to ferry to Earth samples collected from the Mars surface by NASAs Mars Perseverance rover. Credit: NASA/… [+6282 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Rachel Pannett",
+      "title": "Ancient Europeans were lactose intolerant. They drank milk anyway, study finds. - The Washington Post",
+      "description": "Despite digestive problems, ancient Europeans drank milk for millennia, the study found, casting doubt on theories on how humans evolved to tolerate it.",
+      "url": "https://www.washingtonpost.com/health/2022/07/28/lactose-intolerant-europe-study-milk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTVF53VAZUI6ZCX3C6ZWBE5B4U.jpg&w=1440",
+      "publishedAt": "2022-07-28T07:53:18Z",
+      "content": "Comment on this story\r\nA group of scientists has concluded that ancient Europeans drank milk for millennia despite the digestive problems it may have caused, casting doubt on theories on how humans e… [+3944 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Senator Joe Manchin suddenly backs Biden climate and tax bill - BBC",
+      "description": "Joe Manchin stuns Washington by announcing support for a measure to raise taxes and fight climate change.",
+      "url": "https://www.bbc.com/news/world-us-canada-62328875",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30EF/production/_126072521_manchin.jpg",
+      "publishedAt": "2022-07-28T07:00:34Z",
+      "content": "A US Democratic senator who has proved a political thorn in the White House's side has stunned Washington by announcing sudden support for President Joe Biden's top agenda item.\r\nJoe Manchin says he … [+4263 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Russian-occupied Kherson cut off as Ukraine counter-attacks - Britain - Reuters",
+      "description": "A Ukrainian counter-offensive has virtually cut off the Russian-occupied southern city of Kherson and left thousands of Russian troops stationed near the Dnipro River \"highly vulnerable\", British defence and intelligence officials said on Thursday.",
+      "url": "https://www.reuters.com/world/europe/russia-captures-power-station-redeploys-troops-toward-southern-ukraine-2022-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/ZJMecb9vWGkj2aHIsQYHNxJwJ6E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5JJLE57OHZNXNL7X475HV7AGFQ.jpg",
+      "publishedAt": "2022-07-28T06:30:00Z",
+      "content": "July 28 (Reuters) - A Ukrainian counter-offensive has virtually cut off the Russian-occupied southern city of Kherson and left thousands of Russian troops stationed near the Dnipro River \"highly vuln… [+4173 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Kelly Gilmore",
+      "title": "Teen Mom: Andrew Glennon Speaks Out After Amber Portwood Loses Custody - E! NEWS",
+      "description": "Andrew Glennon told E! News how he feels after being awarded sole legal custody of his and Amber Portwood’s son James. Read his message about moving on from the alleged \"nightmare.\"",
+      "url": "https://www.eonline.com/news/1339758/teen-mom-andrew-glennon-speaks-out-after-amber-portwood-loses-custody",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022627/rs_1200x1200-220727165400-1200-Amber-Andrew.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-07-28T06:21:21Z",
+      "content": "Andrew Glennon has shared his thoughts after a decision was made in his custody battle with Amber Portwood.\r\n\"We endured the nightmare,\" he exclusively told E! News. \"Now we get to live the dream.\"\r\n… [+838 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "China says closely tracking rocket debris hurtling towards Earth - Al Jazeera English",
+      "description": "Beijing says uncontrolled re-entry of rocket debris poses little risk to anyone on the ground.",
+      "url": "https://www.aljazeera.com/news/2022/7/28/china-says-closely-tracking-rocket-debris-hurtling-toward-earth",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-07-27T113050Z_1635632727_RC2EIV936DWV_RTRMADP_3_SPACE-EXPLORATION-CHINA-ROCKET.jpg?resize=1200%2C630",
+      "publishedAt": "2022-07-28T05:25:24Z",
+      "content": "Remnants of a large Chinese rocket are expected to streak through the atmosphere this weekend in an uncontrolled re-entry that Beijing says it is closely tracking but poses little risk to anyone on E… [+3452 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "JetBlue, Spirit near takeover deal that could come on Thursday-source - Reuters",
+      "description": "JetBlue Airways Corp <a href=\"https://www.reuters.com/companies/JBLU.O\" target=\"_blank\">(JBLU.O)</a> is nearing a deal to buy Spirit Airlines <a href=\"https://www.reuters.com/companies/SAVE.N\" target=\"_blank\">(SAVE.N)</a> that could be announced as soon as Th…",
+      "url": "https://www.reuters.com/business/aerospace-defense/exclusive-spirit-vote-frontier-deal-go-ahead-set-fail-sources-2022-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/DCu-oK-59uivR-BYtE4qsVD57F0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WX7Q3YV6VVJF7KFE43HW4CYDZU.jpg",
+      "publishedAt": "2022-07-28T04:54:00Z",
+      "content": "July 28 (Reuters) - JetBlue Airways Corp (JBLU.O) is nearing a deal to buy Spirit Airlines (SAVE.N) that could be announced as soon as Thursday, a source familiar with the matter said, after Spirit c… [+4169 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Analysis by Stephen Collinson, CNN",
+      "title": "Trump is in growing legal and political jeopardy after a whirlwind week - CNN",
+      "description": "The ice may be finally beginning to crack under ex-President Donald Trump.",
+      "url": "https://www.cnn.com/2022/07/28/politics/trump-doj-probe-jan-6-committee-legal-jeopardy/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220726155007-02-donald-trump-0726-super-tease.jpg",
+      "publishedAt": "2022-07-28T04:01:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Virginia Langmaid, CNN",
+      "title": "Bacteria that causes rare, serious illness melioidosis is endemic in parts of Mississippi Gulf Coast, CDC says - CNN",
+      "description": "The bacteria that causes a rare, serious disease called melioidosis has been detected in water and soil samples in Mississippi, the US Centers for Disease Control and Prevention said Wednesday.",
+      "url": "https://www.cnn.com/2022/07/27/health/cdc-melioidosis-mississippi/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/150312112110-whitmores-disease-super-169.jpg",
+      "publishedAt": "2022-07-28T03:14:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Cointelegraph" },
+      "author": "Brian Quarmby",
+      "title": "'Bullish rate hike' — Why crypto spiked today in the face of bad news - Cointelegraph",
+      "description": "Crypto assets surged following the FOMC’s rate hike announcement, signaling that investors had been expecting far worse to happen.",
+      "url": "https://cointelegraph.com/news/bullish-rate-hike-why-crypto-spiked-today-in-the-face-of-bad-news",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDcvMjU2NThkYTItZjYzZi00OWYzLWExMGEtMTJhMThjOGQwZWNjLmpwZw==.jpg",
+      "publishedAt": "2022-07-28T03:10:21Z",
+      "content": "Crypto markets have been pumping since the announcement of a 75 basis point interest rate hike in the United States, with experts explaining that the markets may have been initially bracing for much … [+3373 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "Carly Johnson, Christine Rendon",
+      "title": "Rihanna on low-key shopping trip with baby daddy A$AP Rocky in Manhattan - Daily Mail",
+      "description": "Rihanna attempted to go incognito on Wednesday afternoon as she stepped out in New York City's Manhattan borough with her baby daddy A$AP Rocky.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-11056379/Rihanna-low-key-shopping-trip-baby-daddy-AP-Rocky-Manhattan.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/07/28/03/60777027-0-image-a-61_1658974754576.jpg",
+      "publishedAt": "2022-07-28T02:30:35Z",
+      "content": "Rihanna attempted to go incognito on Wednesday afternoon as she stepped out in New York City's Manhattan borough with her baby daddy A$AP Rocky.\r\nThe songstress, 34, emerged from a Whole Foods store … [+2863 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Hopes raised for College Football Playoff expansion agreement as interest in 16-team model grows - CBS Sports",
+      "description": "Key players finally appear willing to make concessions in hopes of arriving at a mutually agreed upon format",
+      "url": "https://www.cbssports.com/college-football/news/hopes-raised-for-college-football-playoff-expansion-agreement-as-interest-in-16-team-model-grows/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/01/02/1682c482-3750-4230-a8e4-56bd644565d8/thumbnail/1200x675/30a8f52789b0a375af42f72619f91904/cfp-logo-football.jpg",
+      "publishedAt": "2022-07-28T01:55:03Z",
+      "content": "INDIANAPOLIS -- Just as it looked like College Football Playoff expansion was heading towards finality, conference realignment started by Texas and Oklahoma jumping to the SEC put the entire process … [+4012 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Peter Baker",
+      "title": "China’s Domestic Troubles Will Hang Over Biden-Xi Call - The New York Times",
+      "description": "Some American officials suspect that what is really driving China’s president to lash out recently is a desire to divert attention from his economic and pandemic problems at home.",
+      "url": "https://www.nytimes.com/2022/07/27/us/politics/biden-jinping-china-taiwan.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/27/multimedia/27dc-prexy2-copy/27dc-prexy2-facebookJumbo.jpg",
+      "publishedAt": "2022-07-28T01:32:49Z",
+      "content": "Any member that wants to go should. It shows political deterrence to President Xi, said Representative Michael McCaul of Texas, the top Republican on the House Foreign Affairs Committee, who had to d… [+2423 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hoops Hype" },
+      "author": "Michael Scotto",
+      "title": "Nets and Celtics rumors: Kevin Durant, Kyrie Irving, Jaylen Brown, Marcus Smart, Grant Williams - Hoops Hype",
+      "description": "HoopsHype’s Michael Scotto and Celtics beat writer Jared Weiss share the latest updates on trade talks between the Celtics and Nets surrounding Jaylen Brown and Kevin Durant. Plus, the possibility …",
+      "url": "https://hoopshype.com/lists/nets-celtics-rumors-kevin-durant-kyrie-irving-jaylen-brown-marcus-smart-grant-williams/",
+      "urlToImage": "https://hoopshype.com/wp-content/uploads/sites/92/2022/07/USATSI_18140401.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2022-07-28T01:21:49Z",
+      "content": "AP Photo/Seth Wenig\r\nScotto: If the Nets trade Kevin Durant, it could mean the end of Kyrie Irvings time in Brooklyn as well. Theres a school of thought from some that Brooklyn could get under the lu… [+2193 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Actor Tony Dow dies at age 77 | WNT - ABC News",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy-PSEJLYPCQ",
+      "urlToImage": null,
+      "publishedAt": "2022-07-28T00:19:18Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Russia tells NASA space station pullout less imminent than indicated earlier - Reuters",
+      "description": "Russian space officials have informed their U.S. counterparts that Moscow would like to keep flying its cosmonauts on the International Space Station at least until their own orbital outpost is built, a senior NASA official told Reuters on Wednesday.",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-nasa-sticking-with-space-station-until-least-2028-2022-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/3A6Lx6f53zgFd_kCQeMGyTrbtk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IHKDH2KSZNLW3BHEI3R6EEGVYI.jpg",
+      "publishedAt": "2022-07-28T00:15:00Z",
+      "content": "WASHINGTON, July 27 (Reuters) - Russian space officials have informed their U.S. counterparts that Moscow would like to keep flying its cosmonauts on the International Space Station at least until th… [+2681 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Anchorage Daily News" },
+      "author": "Anchorage Daily News",
+      "title": "Fairbanks teen fatally shot 3 siblings before killing himself, troopers say - Anchorage Daily News",
+      "description": "Troopers said they found four children dead in a Fairbanks-area home after responding to a report of shots being fired, and three other children in the home were not hurt.",
+      "url": "https://www.adn.com/alaska-news/fairbanks/2022/07/27/fairbanks-teen-fatally-shot-3-siblings-before-killing-himself-troopers-say/",
+      "urlToImage": "https://www.adn.com/resizer//NzDJlBY_VehGOVV14Vd01mxmQqM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/VERLIMMW2VDANMX4A73IG4I7KM.JPG",
+      "publishedAt": "2022-07-28T00:02:25Z",
+      "content": "Alaska State Troopers found four children dead in a Fairbanks-area home this week in an apparent homicide and suicide, the agency said.\r\nTroopers received a report of shots being fired at a home in t… [+1612 chars]"
+    }
+  ]
+}
